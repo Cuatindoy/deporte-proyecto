@@ -1,0 +1,65 @@
+.logo{
+    width: 200px;
+    height: 200px;
+    border-radius:200px;
+    margin: auto;
+    display: block;
+}
+
+.footer{
+    background-color:#77DCA3;  
+}
+
+.contacto{
+    margin:29px;
+    font-family:HelveticaNeue;
+    color:azure ;
+    
+}
+
+.telefono{
+    font-size: 29px;
+   color: azure;     
+}
+
+.correo{
+    font-size: 29px;
+    color: azure;    
+}
+
+.ubicacion{
+    font-size: 29px;
+    color: azure;    
+}
+
+.Redes{
+    margin:29px;
+    font-family:HelveticaNeue;
+    color:azure ;  
+}
+
+.facebook{
+    font-size: 29px;
+    color: azure;   
+}
+
+.instagram{
+    font-size: 29px;
+    color: azure; 
+}
+
+.youtube{
+    font-size: 29px;
+    color: azure; 
+}
+
+.uno{
+    float: left;    
+    top: 100%;
+    
+}
+
+.dos{
+    float: right;
+    display: block;
+}
